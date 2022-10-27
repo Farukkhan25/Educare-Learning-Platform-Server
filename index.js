@@ -16,20 +16,16 @@ app.get("/all-topics", (req, res) => {
   res.send(all_topics);
 });
 
-app.get("/courses/:id", (req, res) => {
-  const id = req.params.id;
-  if (id === "07") {
-    res.send(courses);
-  } else {
-    const course_details = courses.filter((n) => n.category_id === id);
-    res.send(course_details);
-  }
-});
-
 app.get("/courseDetails/:id", (req, res) => {
   const id = req.params.id;
   const selectedCourse = courses.find((n) => n._id == id);
   res.send(selectedCourse);
+});
+
+app.get("/checkout/:id", (req, res) => {
+  const id = req.params.id;
+  const selected = all_topics.find((n) => n._id == id);
+  res.send(selected);
 });
 
 
