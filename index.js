@@ -12,7 +12,7 @@ app.get('/', (req, res)=> {
     res.send('Course API Running');
 })
 
-app.get("/topics", (req, res) => {
+app.get("/all-topics", (req, res) => {
   res.send(all_topics);
 });
 
@@ -26,7 +26,14 @@ app.get("/courses/:id", (req, res) => {
   }
 });
 
-app.get("/news", (req, res) => {
+app.get("/courseDetails/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedCourse = courses.find((n) => n._id == id);
+  res.send(selectedCourse);
+});
+
+
+app.get("/courses", (req, res) => {
   res.send(courses);
 });
 
