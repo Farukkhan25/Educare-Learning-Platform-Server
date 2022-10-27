@@ -24,13 +24,13 @@
   {
     "_id": 3,
     "title": "Mobile App Development",
-    "price": 55.99,
+    "price": 85.99,
     "description": "The Complete iOS and Android Mobile App Development Course with Flutter and Dart (2022).",
     "category": "men's clothing",
     "category_id": "03",
     "details": "Flutter is an extremely trending framework from Google that was released only in 2017. ​​And today, ​ Flutter has become the most popular cross-platform mobile framework, according to a 2021 developer survey from Statista. Based on this survey, a stunning 42 percent of software developers worldwide used Flutter. Flutter allows you to build beautiful native mobile apps for both iOS and Android with only one programming language - Dart. That means that you, as a developer do not need to learn Swift/Objective-C and Kotlin/Java in order to write apps for iOS and Android, but instead, use the revolutionizing framework from Google and learn only one language - Dart and create stunning apps for both platforms. This course will teach you Flutter and Dart from zero, with no prior knowledge required! In fact, we will create every project in this course from scratch. We will use the newest version of Flutter and Dart, which already includes null-safety in all of the projects by default. In this course, you will learn everything you need to become a pro Flutter developer. We will create amazing projects that you can later include in your portfolio, some of them are BlackJack Card game, Meditations app with audio player, Bird spotting app with maps, real-time location, and on-device data storage, My Diary app with App localizations, social media app with Firebase, where we will create and authenticate users, store data remotely, and create a real-time chat, use Crashlythics in order to identify bugs when the app is already in production. Later in the course, you will also learn how we can monetize our apps with Google AdMob - we will embed in-app ad banners and interstitial ads. We will embed and use the Machine Learning model from Google and recognize objects from Images. In addition to that, you will learn how to use git and how to manage your repository remotely on GitHub. We will also learn how to use different state management approaches including Provider, GetX, Riverpod and BLoC(Cubit), and many many other cool things. If it all sounds confusing to you, do not worry, because we will start from the very beginning, with the basics of the Dart Programming language and the theory behind Object-Oriented Programming - concepts and paradigms.",
     "image": "https://articlesbase.com/wp-content/uploads/2021/01/Mobile-App-development.jpeg",
-    "rating": { "rate": 4.7, "count": 500 }
+    "rating": { "rate": 4.6, "count": 500 }
   },
   {
     "_id": 4,
@@ -46,23 +46,23 @@
   {
     "_id": 5,
     "title": "Motion Graphics",
-    "price": 695,
+    "price": 195,
     "description": "Using Adobe After Effects create beautiful VFX Visual Effects, data visualization & VFX Compositing.",
     "category": "jewelery",
     "category_id": "05",
     "details": "This course is for beginners. You don’t need any previous knowledge in VFX Compositing or any motion graphics experience. We’ll start with the super basics, taking simple icons breathing life into to them with After Effects. We’ll work through a real life projects, connecting Excel into After Effects to transform your boring spreadsheet data into approachable visual information. We’ll experiment with lighting & cameras. We’ll do some fun things with masking, looking at how important sound is in your presentation, all the way through to exporting for Youtube, Powerpoint and all sorts of social media including animated GIFS. There are projects for you to complete, so you can practice your VFX visual effects skills and use these for your portfolio. There is a cheat sheet and I’ve got exercise files so you can play along. I will also save my files as I go through each video so that you can compare yours to mine - handy if something goes wrong. Know that I will be around to help - if you get lost you can drop a post on the video 'Questions and Answers' below each video and I'll be sure to get back to you. So what are you waiting for? Lets get making!",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiuv0qWDidQS_FCcqabDtJ911uTvqvlXbmQw&usqp=CAU",
-    "rating": { "rate": 4.6, "count": 400 }
+    "rating": { "rate": 4.7, "count": 400 }
   },
   {
     "_id": 6,
     "title": "Photo Composition",
-    "price": 168,
+    "price": 98,
     "description": "Master the composition of your photos, learn how to see the composition around, learn how to analyze your photography.",
     "category": "jewelery",
     "category_id": "06",
     "details": "Welcome to the Composition in Photography Masterclass! Whether a beginner or advanced in the field, this course will be useful for you. We will start with the basics - what BALANCE is, how to achieve it. From there on we'll move to the different composition rules - the Rule of Thirds, the Golden Ratio, the Golden Spiral, till we reach the point where we'll be doing overall composition analysis. All of the time we will be analyzing photography - a really valuable skill a few people have. And a few photographers speak about, in fact, especially when it comes to analyzing their own photos. The course is recorded by Vyara Georgieva, that's why you'll hear a female voice once you start it. You are on the way to stat an amazing journey in the world of photography! What are you waiting for? Join us today! Let me help you improve your photography skills!",
     "image": "https://assets-static.invideo.io/images/large/Featured_Image_Motion_Graphics1_049b7b8399.png",
-    "rating": { "rate": 3.9, "count": 70 }
+    "rating": { "rate": 4.9, "count": 70 }
   } 
 ]
